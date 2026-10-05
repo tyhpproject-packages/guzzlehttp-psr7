@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/guzzlehttp-psr7
 
-Tyhp type definitions for `guzzlehttp/psr7` `2.13.1`.
+Tyhp type definitions for `guzzlehttp/psr7` `3.1.0`.
 
 ```bash
-composer require --dev tyhpdef/guzzlehttp-psr7:2.13.1
+composer require --dev tyhpdef/guzzlehttp-psr7:3.1.0
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/guzzlehttp-psr7-impl` (type files).
